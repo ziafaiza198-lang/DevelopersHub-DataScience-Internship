@@ -28,5 +28,4 @@ This repository contains completed Data Science and Machine Learning tasks for t
 - Seaborn
 - Scikit-learn
 
-## Author
-Internship Submission
+
